@@ -1,5 +1,5 @@
 # WebTechnologies-WeFix-GaragesManagement
-Web Technologies course project ORT Braude College Date: 7/2020
+Web Technologies course project ORT Braude College Date: 7/2020\
 A semester Angular web project in Web Technologies course.
 
 Highlights of the project:
